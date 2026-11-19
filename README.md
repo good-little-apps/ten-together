@@ -6,6 +6,7 @@ Same layout and stylesheet as the other Good Little Apps sites, recoloured.
 ## Production URLs
 
 - Overview: `https://good-little-apps.github.io/ten-together/`
+- Before reading (guide for parents of 2- to 4-year-olds): `https://good-little-apps.github.io/ten-together/before-reading.html`
 - Support: `https://good-little-apps.github.io/ten-together/support.html`
 - Privacy: `https://good-little-apps.github.io/ten-together/privacy.html`
 
